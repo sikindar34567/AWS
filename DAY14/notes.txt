@@ -1,0 +1,2 @@
+1. SSM
+2. run command
